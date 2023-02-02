@@ -1,0 +1,1 @@
+{"version":3,"file":"GarageDoorAccessory.d.ts","sourceRoot":"","sources":["../../src/accessory/GarageDoorAccessory.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,MAAM,iBAAiB,CAAC;AAO5C,MAAM,CAAC,OAAO,OAAO,mBAAoB,SAAQ,aAAa;IAE5D,cAAc;IAId,iBAAiB;IAOjB,WAAW;IAKX,yBAAyB;IA0BzB,wBAAwB;CAmBzB"}
